@@ -1,0 +1,15 @@
+main{
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;   
+}
+
+footer {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
